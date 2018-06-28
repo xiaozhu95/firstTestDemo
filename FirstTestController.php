@@ -5,3 +5,11 @@
  *
  * @Id  : FirstTest.php by zhulang(zhulang@nxhjzddata.com)
  */
+
+class FirstController
+{
+    public function firstController ()
+    {
+        var_dump(1);
+    }
+}
